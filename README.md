@@ -1,2 +1,2 @@
 # BarCode
-Create a Barcode using Python
+To make a barcode using Python
